@@ -1,3 +1,3 @@
-# Guitar-Hero-with-Python
-Repository for my Guitar Hero project
-a
+# Guitar Hero Project
+
+- This is my project
