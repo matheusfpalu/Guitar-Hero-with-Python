@@ -25,7 +25,7 @@ To meet the proposed requirements, a game was created in Python using the Pygame
 In addition, a Printed Circuit Board (PCB) was developed to enable integration with external hardware, in this case the Arduino. The Arduino Mega board was used for communication and control of the game, although the Arduino Uno could also be used for this purpose.
 
 ## Alternative version (without external hardware)
-If external hardware is not available, an alternative version of the game has been created called "VERSION_WITHOUT_GUITAR". In this version, you can control the game with the keys on your keyboard:
+If external hardware is not available, an alternative version of the game has been created called "VERSÂO_SEM_GUITARRA". In this version, you can control the game with the keys on your keyboard:
 - "A" for the color Green,
 - "S" for the color Red,
 - "J" for Yellow and
